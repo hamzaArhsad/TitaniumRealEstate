@@ -1,0 +1,116 @@
+﻿@model List< Domain.Property>
+@{
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+<div class="marquee mt-3">
+    <marquee behavior="" direction="cover">
+        @ViewData["Greeting"] TO TITANIUM AGENCY. YOU CAN TRUST, TO KEEP IT REAL. WELCOME TO
+        TITANIUM AGENCY. YOU CAN TRUST,TO KEEP IT REAL
+    </marquee>
+</div>
+<!--carousel starts here-->
+<div class="row">
+    <div class="col-12">
+        <video class="w-100" autoplay muted loop>
+            <source src="~/videos/3940070-uhd_3840_2160_30fps.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+</div>
+ @* <section id="hot-offers ">
+    <div class="container-fluid bg-offers ">
+        <div class="row">
+            <h2 class="h1  text-center text-green p-4" style="color:goldenrod">HOT OFFERS</h2>
+        </div>
+        <div class="row gy-3 gx-3 gy-3">
+            <div class="col-sm-6  col-lg-3 ">
+                <div class="card text-center">
+                    <img src="assets/img/bismillah.jpeg" class="card-img-top" style="height: 150px" alt="...">
+                    <div class="card-body ">
+                        <h5 class="">Bismillah society Phase 2</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="rounded-link ">Read More...</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6  col-lg-3 ">
+                <div class="card text-center">
+                    <img src="assets/img/bismillah.jpeg" class="card-img-top" style="height: 150px" alt="...">
+                    <div class="card-body ">
+                        <h5 class="">Bismillah society Phase 2</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="rounded-link ">Read More...</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6  col-lg-3 ">
+                <div class="card text-center">
+                    <img src="assets/img/bismillah.jpeg" class="card-img-top" style="height: 150px" alt="...">
+                    <div class="card-body ">
+                        <h5 class="">Bismillah society Phase 2</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="rounded-link ">Read More...</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6  col-lg-3 ">
+                <div class="card text-center">
+                    <img src="assets/img/bismillah.jpeg" class="card-img-top" style="height: 150px" alt="...">
+                    <div class="card-body ">
+                        <h5 class="">Bismillah society Phase 2</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="rounded-link ">Read More...</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section> *@
+@*<section class="services" id="#services">
+    <div class="container mt-3">
+        <div class="row gy-3">
+            <div class="col-12"><h1 class="text-center" style="color:goldenrod">Our Services</h1></div>
+            <!-- item -->
+            <div class="col-md-3 text-center service-item">
+                <i class="circle"><img src="assets/img/5.png" alt="" /></i>
+                <h3>New Projects</h3>
+                <p>
+                    Nullam ac rhoncus sapien, non gravida purus. Alinon elit imperdiet congue. Integer elit imperdiet congue.
+                </p>
+            </div>
+            <!-- end: -->
+            <!-- item -->
+            <div class="col-md-3 text-center service-item">
+                <i class="circle"> <img src="assets/img/1.png" alt="" /></i>
+                <h3>Plots for Sale</h3>
+                <p>
+                    Nullam ac rhoncus sapien, non gravida purus. Alinon elit imperdiet congue. Integer elit imperdiet congue.
+                </p>
+            </div>
+            <!-- end: -->
+            <!-- item -->
+            <div class="col-md-3 text-center service-item">
+                <i class="circle"> <img src="assets/img/2.png" alt="" /></i>
+                <h3>Luxury Villas</h3>
+                <p>
+                    Nullam ac rhoncus sapien, non gravida purus. Alinon elit imperdiet congue. Integer ultricies sed elit impe.
+                </p>
+            </div>
+            <!-- end: -->
+            <!-- item -->
+            <div class="col-md-3 text-center service-item">
+                <i class="circle"> <img src="assets/img/3.png" alt="" /></i>
+                <h3>Rent a House</h3>
+                <p>
+                    Nullam ac rhoncus sapien, non gravida purus. Alinon elit imperdiet congue. Integer elit imperdiet conempus.
+                </p>
+            </div>
+            <!-- end:-->
+        </div>
+</section> *@
+<partial name="_HotOffers" model="Model"/>
+<partial name="_Services" />
+
+
+
+<!--carousel-end-here-->

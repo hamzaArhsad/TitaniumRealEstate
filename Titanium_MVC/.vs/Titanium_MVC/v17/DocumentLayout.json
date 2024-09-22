@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|c:\\users\\admin\\downloads\\titaniumproject\\titanium_mvc\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|solutionrelative:views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|c:\\users\\admin\\downloads\\titaniumproject\\titanium_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|c:\\users\\admin\\downloads\\titaniumproject\\titanium_mvc\\titanium_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|solutionrelative:titanium_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|c:\\users\\admin\\downloads\\titaniumproject\\titanium_mvc\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|solutionrelative:controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|c:\\users\\admin\\downloads\\titaniumproject\\titanium_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|c:\\users\\admin\\downloads\\titaniumproject\\titanium_mvc\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|solutionrelative:controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|c:\\users\\admin\\downloads\\titaniumproject\\titanium_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|c:\\users\\admin\\downloads\\titaniumproject\\titanium_mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|c:\\users\\admin\\downloads\\titaniumproject\\titanium_mvc\\services\\signalrnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|solutionrelative:services\\signalrnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|c:\\users\\admin\\downloads\\titaniumproject\\titanium_mvc\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|solutionrelative:hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|c:\\users\\admin\\downloads\\titaniumproject\\titanium_mvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|c:\\users\\admin\\downloads\\titaniumproject\\titanium_mvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|c:\\users\\admin\\downloads\\titaniumproject\\titanium_mvc\\wwwroot\\js\\waypoints.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|solutionrelative:wwwroot\\js\\waypoints.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|c:\\users\\admin\\downloads\\titaniumproject\\titanium_mvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|c:\\users\\admin\\downloads\\titaniumproject\\titanium_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|c:\\users\\admin\\downloads\\titaniumproject\\titanium_mvc\\views\\shared\\_layout1identity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|solutionrelative:views\\shared\\_layout1identity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|c:\\users\\admin\\downloads\\titaniumproject\\titanium_mvc\\views\\admin\\addpropertyform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3047E0A9-5AC3-4E89-AE6B-2837CC009278}|Titanium_MVC.csproj|solutionrelative:views\\admin\\addpropertyform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T03:57:17.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T15:34:20.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Titanium_MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Titanium_MVC.csproj",
+              "RelativeDocumentMoniker": "Titanium_MVC.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Titanium_MVC.csproj",
+              "RelativeToolTip": "Titanium_MVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-15T14:26:59.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Controllers\\ProjectController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:26:48.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:25:31.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:29:26.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutUsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Controllers\\AboutUsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AboutUsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Controllers\\AboutUsController.cs",
+              "RelativeToolTip": "Controllers\\AboutUsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:29:24.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:43:36.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "waypoints.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\wwwroot\\js\\waypoints.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\waypoints.js",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\wwwroot\\js\\waypoints.js",
+              "RelativeToolTip": "wwwroot\\js\\waypoints.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-03T16:40:31.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Hubs\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\NotificationHub.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Hubs\\NotificationHub.cs",
+              "RelativeToolTip": "Hubs\\NotificationHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:12:46.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignalRNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Services\\SignalRNotificationService.cs",
+              "RelativeDocumentMoniker": "Services\\SignalRNotificationService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Services\\SignalRNotificationService.cs",
+              "RelativeToolTip": "Services\\SignalRNotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:12:28.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAwwEUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:06:15.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAACMAAAAAAAAAAAAkwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-28T06:09:57.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAADwv3AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T16:41:39.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout1Identity.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Views\\Shared\\_Layout1Identity.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout1Identity.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Views\\Shared\\_Layout1Identity.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout1Identity.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAADwvzIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T06:09:19.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddPropertyForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Views\\Admin\\AddPropertyForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AddPropertyForm.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Views\\Admin\\AddPropertyForm.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AddPropertyForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T06:08:57.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TitaniumProject\\Titanium_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAIwEQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:06:36.739Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+﻿@model  Domain.Contact
+@{
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+    <section id="contactUs" class="contact-parlex">
+        <div class="parlex-back">
+            <div class="container">
+                <div class="row">
+                    <div class="heading text-center">
+                        <!-- Heading -->
+                        <h2>Contact Us</h2>
+                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered.</p>
+                    </div>
+                </div>
+                <div class="row mrgn30">
+                    <div class="col-sm-12 col-md-offset-2 col-md-8">
+                        <!--NOTE: Update your email Id in "contact_me.php" file in order to receive emails from your contact form-->
+                        <form  asp-controller="Contact" asp-action="AddContact" name="sentMessage" id="contactForm" novalidate>
+                            <h3>Contact Form</h3>
+                        <div class="form-floating mb-3">
+                                <div class="controls">
+                                <input asp-for="Name" class="form-control" class="validation-error" autocomplete="username" aria-required="true" placeholder="Name" />
+                                <label asp-for="Name"> Name</label>
+                                <span asp-validation-for="Name" class="text-danger"></span>
+
+                                <p class="help-block"></p>
+                                </div>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <input asp-for="Email" class="form-control" class="validation-error" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                                <label asp-for="Email">Email</label>
+                                <span asp-validation-for="Email" class="text-danger"></span>
+                            </div>
+
+                            <div class="control-group">
+                                <div class="form-floating mb-3">
+                                    <textarea asp-for="Message" rows="5" cols="100" placeholder ="Type Message"class="form-control"></textarea>
+                                    <label asp-for="Message">Leave Your Message</label>
+                                    <span asp-validation-for="Message" class="text-danger"></span>
+textarea>
+                                </div>
+                            </div>
+                            <div id="success"> </div> <!-- For success/fail messages -->
+                            <button type="submit" class="btn btn-primary pull-right">Send</button><br />
+                        </form>
+                    </div>
+                </div>
+             @*    <div class="row">
+                    <div class="col-12">
+                       <img  class="img-fluid" src="~/assets/img/about-1.jpg" style="height:200px widht:500px%"/>
+                    </div>
+                </div>
+            </div> *@
+            <!--/.container-->
+        </div>
+    </section>
+
+

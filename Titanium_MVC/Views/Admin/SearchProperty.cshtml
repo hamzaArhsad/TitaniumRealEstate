@@ -1,0 +1,36 @@
+﻿@model List< Domain.Property>
+<section id="hot-offers ">
+    <div class="container-fluid bg-offers ">
+        <div class="row">
+            <h2 class="h1  text-center text-green p-4">HOT OFFERS</h2>
+        </div>
+        @if(Model.Any())
+        {
+            <div class="row gy-3 gx-3 gy-3">
+                @foreach (var property in Model)
+                {
+                    <div class="col-sm-6  col-lg-3 ">
+                        <div class="card ">
+                            <img src="@property.Path" class="card-img-top" style="height: 150px" alt="...">
+                            <div class="card-body ">
+                                <h5 class="text-center">@property.Location</h5>
+                                <strong>Type:</strong>@property.Type
+                                <br>
+                                <strong>Area:</strong>@property.Area
+                                <br>
+                                <strong>Date:</strong>@property.UploadDate
+                                <br>
+                                <a href="#" class="rounded-link ">Read More...</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+        else
+        {
+            <h2>No Property Found </h2>
+        }
+       
+    </div>
+</section>

@@ -1,0 +1,19 @@
+﻿@model Domain.Property;
+@{
+    Layout = "~/Views/Shared/_Layout1Identity.cshtml";
+}
+<div class="row">
+    <div class="col-md-4 m-auto">
+        <h2>Del Property</h2>
+        <form>
+         @* <form  asp-controller="Admin" asp-action="DeleteProperty" method="post" > *@
+            <hr />
+            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+            <div class="form-floating mb-3">
+                <input type="number" class="form-control" name="PropertyId" id="d1" autocomplete="Id" required placeholder="Enter Id " />
+                <label  for="PropertyId" >Enter Id </label>
+            </div>
+            <button type="button" id="deleteProperty" class="w-100 btn btn-lg" style="background-color:darkgray">Delete</button>
+         </form> 
+    </div>
+</div>

@@ -1,0 +1,44 @@
+﻿@model Domain.Property;
+@{
+    Layout = "~/Views/Shared/_Layout1Identity.cshtml";
+}
+<link rel="stylesheet" href="~/css/site.css" />
+
+<div class="row">
+    <div class="col-md-4 m-auto">
+        @* <form asp-controller="Admin" asp-action="AddProperty" method="post" enctype="multipart/form-data"> *@
+        <form id="productForm" novalidate class="needs-validation" enctype="multipart/form-data">
+
+            <h2>Add Property</h2>
+            <hr />
+            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+            <div class="form-floating mb-3">
+                <input asp-for="Location" class="form-control" autocomplete="username" aria-required="true" placeholder="Location" />
+                <label asp-for="Location">Location</label>
+                <span asp-validation-for="Location" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Type" class="form-control" autocomplete="new-password"  class="validation-error" aria-required="true" placeholder="Type" />
+                <label asp-for="Type">Type</label>
+                <span asp-validation-for="Type" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Area" class="form-control" autocomplete="new-password" class="validation-error" aria-required="true" placeholder="Area" />
+                <label asp-for="Area">Area</label>
+                <span asp-validation-for="Area" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="UploadDate" class="form-control" autocomplete="new-password" aria-required="true" placeholder="Area" />
+                <label asp-for="UploadDate">Date</label>
+                <span asp-validation-for="UploadDate" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Image" class="form-control" autocomplete="new-password" aria-required="true" placeholder="" />
+                <span asp-validation-for="Image" class="text-danger"></span>
+            </div>
+            <button type="button" id="productButton" class="btn btn-primary">Submit</button>
+
+            @* <button id="AddProperty" type="submit" class="w-100 btn btn-lg" style="background-color:darkgray">Add</button> *@
+        </form>
+    </div>
+</div>

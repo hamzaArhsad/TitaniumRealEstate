@@ -1,0 +1,149 @@
+﻿<!doctype html>
+<html lang="en-gb" class="no-js">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>About Us</title>
+    <meta name="description" content="">
+    <link rel="stylesheet" href="~/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="~/css/isotope.css" media="screen" />
+    <link rel="stylesheet" href="~/js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+    <link href="~/css/animate.css" rel="stylesheet" media="screen">
+    <!-- Owl Carousel Assets -->
+    <link href="~/js/owl-carousel/owl.carousel.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/styles.css" />
+    <!-- for dark background-->
+    <link rel="stylesheet" href="~/myCss.css" />
+    <!-- Font Awesome -->
+    <link href="~/font/css/font-awesome.min.css" rel="stylesheet">
+</head>
+<body class="body">
+    <header>
+        <div class="container-fluid" style="background-color: black;">
+            <nav class="navbar navbar-inverse" role="navigation">
+                <div class="navbar-header">
+                    <button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <h1 class="heading float-left">TITANIUM</h1>
+                </div>
+                <!--/.navbar-header-->
+                <div id="main-nav" class="collapse navbar-collapse">
+                    <ul class="nav navbar-nav" id="mainNav">
+                        <li class="active"><a asp-controller="Home" asp-action="Index">Home</a></li>
+                        <li class="active"><a asp-controller="AboutUs" asp-action="About">About Us</a></li>
+                        <li class="active"><a asp-controller="Project" asp-action="Project">Projects</a></li>
+                        <li class="active"><a asp-controller="Team" asp-action="Team">Team</a></li>
+                        <li class="active"><a asp-controller="Contact" asp-action="Contact">Contact Us</a></li>
+                        <!-- Search bar -->
+                        <li>
+                            <form asp-controller="Admin" asp-action="SearchProperty" class="navbar-form" role="search">
+                                <div class="form-group">
+                                    <input type="text" name="propertyLocation" class="form-control search-input" placeholder="Enter Location">
+                                </div>
+                                <button type="submit" class="btn btn-default search-button">Search</button>
+                            </form>
+                        </li>
+                    </ul>
+                </div>
+                <!--/.navbar-collapse-->
+            </nav>
+            <!--/.navbar-->
+        </div>
+        <!--/.container-->
+    </header>
+    <div>
+        @RenderBody()
+    </div>
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="col">
+                        <h4>Contact us</h4>
+                        <ul>
+                            <li>579/Z Block DHA Phase 3 Lahore</li>
+                            <li>Phone: 03079344202</li>
+                            <li>Email: <a href="mailto:info@example.com" title="Email Us">titaniumdevelopers.com</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="col">
+                        <h4>Mailing list</h4>
+                        <p>Lorem ipsum dolor sit amet, ea eum labitur scsstie percipitoleat.</p>
+                        <form class="form-inline">
+                            <div class="input-group">
+                                <input type="text" class="form-control" placeholder="Your email address...">
+                                <span class="input-group-btn">
+                                    <button class="btn" type="button">Go!</button>
+                                </span>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="col col-social-icons">
+                        <h4>Follow us</h4>
+                        <a href="#"><i class="fa fa-facebook"></i></a>
+                        <a href="#"><i class="fa fa-youtube-play"></i></a>
+                        <a href="#"><i class="fa fa-twitter"></i></a>
+                        <a href="#"><i class="fa fa-skype"></i></a>
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="col">
+                        <h4>Latest News</h4>
+                        <p>
+                            <marquee style="color:goldenrod">SMART CITY LAHORE HAS STARTED BALLOTING</marquee>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!--/.page-section-->
+    <section class="copyright">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 text-center"> Copyright 2014 | All Rights Reserved </div>
+            </div>
+            <!-- / .row -->
+        </div>
+    </section>
+    <a href="#top" class="topHome"><i class="fa fa-chevron-up fa-2x"></i></a>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/5.0.0/signalr.min.js"></script> <!-- SignalR library -->
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+
+    <!-- Custom SignalR script -->
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const connection = new signalR.HubConnectionBuilder()
+                .withUrl("/notificationHub")
+                .build();
+
+            connection.on("ReceivePropertyNotification", (propertyName) => {
+                const ul = document.getElementById("notifications");
+                const li = document.createElement("li");
+                li.textContent = `New Property Added: ${propertyName}`;
+                ul.appendChild(li);
+            });
+
+            connection.start().catch(err => console.error(err.toString()));
+        });
+    </script>
+</body>
+</html>

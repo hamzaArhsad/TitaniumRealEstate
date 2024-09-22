@@ -1,0 +1,1217 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\UplaodedImages\\bismillah-society-phase-2.jpg",
+      "PackagePath": "staticwebassets\\UplaodedImages\\bismillah-society-phase-2.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\UplaodedImages\\lake-city-lahore-1.jpeg",
+      "PackagePath": "staticwebassets\\UplaodedImages\\lake-city-lahore-1.jpeg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\UplaodedImages\\smart-city-lahore.jpg",
+      "PackagePath": "staticwebassets\\UplaodedImages\\smart-city-lahore.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\UplaodedImages\\soul-city-lahore.jpeg",
+      "PackagePath": "staticwebassets\\UplaodedImages\\soul-city-lahore.jpeg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\UploadedImages\\1.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\1.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\UploadedImages\\1.png",
+      "PackagePath": "staticwebassets\\UploadedImages\\1.png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\UploadedImages\\2.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\2.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\UploadedImages\\3.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\3.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\UploadedImages\\4.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\4.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\UploadedImages\\5.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\5.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\UploadedImages\\5.png",
+      "PackagePath": "staticwebassets\\UploadedImages\\5.png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\UploadedImages\\6.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\6.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\UploadedImages\\7.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\7.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\UploadedImages\\8.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\8.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\UploadedImages\\Screenshot (1).png",
+      "PackagePath": "staticwebassets\\UploadedImages\\Screenshot (1).png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\UploadedImages\\Screenshot (2).png",
+      "PackagePath": "staticwebassets\\UploadedImages\\Screenshot (2).png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\UploadedImages\\bismillah-society-phase-2.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\bismillah-society-phase-2.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\UploadedImages\\lake-city-lahore.svg",
+      "PackagePath": "staticwebassets\\UploadedImages\\lake-city-lahore.svg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\UploadedImages\\smart-city-lahore.jpg",
+      "PackagePath": "staticwebassets\\UploadedImages\\smart-city-lahore.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\UploadedImages\\soul-city-lahore.jpeg",
+      "PackagePath": "staticwebassets\\UploadedImages\\soul-city-lahore.jpeg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\1.png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\2.png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\3.png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\4.png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\5.png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about-1.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about-2.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\agent-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agent-1.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\agent-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agent-2.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\agent-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agent-3.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\agent-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agent-4.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\agent-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agent-5.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\agent-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agent-6.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\agent-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agent-7.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\author-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\author-1.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\author-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\author-2.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-bg.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\bismillah.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\bismillah.jpeg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\mini-testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\mini-testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\mini-testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\mini-testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\plan2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\plan2.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\post-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\post-1.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\post-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\post-2.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\post-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\post-3.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\post-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\post-4.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\post-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\post-5.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\post-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\post-6.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\post-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\post-7.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\post-single-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\post-single-1.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\post-single-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\post-single-2.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\property-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\property-1.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\property-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\property-10.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\property-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\property-2.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\property-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\property-3.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\property-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\property-4.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\property-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\property-5.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\property-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\property-6.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\property-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\property-7.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\property-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\property-8.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\property-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\property-9.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\slide-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slide-1.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\slide-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slide-2.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\slide-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slide-3.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\slide-about-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slide-about-1.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\smart-city-lahore.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\smart-city-lahore.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\assets\\scss\\Readme.txt"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\animate.css\\animate.compat.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\animate.css\\animate.compat.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\animate.css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\animate.css\\animate.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\animate.css\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\animate.css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\contact\\contact_me.js",
+      "PackagePath": "staticwebassets\\contact\\contact_me.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\contact\\jqBootstrapValidation.js",
+      "PackagePath": "staticwebassets\\contact\\jqBootstrapValidation.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\css\\IdentityStyle.css",
+      "PackagePath": "staticwebassets\\css\\IdentityStyle.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\css\\isotope.css",
+      "PackagePath": "staticwebassets\\css\\isotope.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\font\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\font\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\font\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\font\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\font\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\font\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\font\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\font\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\font\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\font\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\font\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\font\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\less\\core.less",
+      "PackagePath": "staticwebassets\\font\\less\\core.less"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\font\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\font\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\less\\icons.less",
+      "PackagePath": "staticwebassets\\font\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\less\\larger.less",
+      "PackagePath": "staticwebassets\\font\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\less\\list.less",
+      "PackagePath": "staticwebassets\\font\\less\\list.less"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\font\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\less\\path.less",
+      "PackagePath": "staticwebassets\\font\\less\\path.less"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\font\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\less\\spinning.less",
+      "PackagePath": "staticwebassets\\font\\less\\spinning.less"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\font\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\less\\variables.less",
+      "PackagePath": "staticwebassets\\font\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\font\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\font\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\font\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\font\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\font\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\font\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\font\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\font\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\font\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\scss\\_spinning.scss",
+      "PackagePath": "staticwebassets\\font\\scss\\_spinning.scss"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\font\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\font\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\font\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\font\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\house.jpg",
+      "PackagePath": "staticwebassets\\house.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\house1.jpg",
+      "PackagePath": "staticwebassets\\house1.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\house2.jpg",
+      "PackagePath": "staticwebassets\\house2.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\house3.jpg",
+      "PackagePath": "staticwebassets\\house3.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\3.png",
+      "PackagePath": "staticwebassets\\images\\3.png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\4.png",
+      "PackagePath": "staticwebassets\\images\\4.png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\5.png",
+      "PackagePath": "staticwebassets\\images\\5.png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\about-us.jpeg",
+      "PackagePath": "staticwebassets\\images\\about-us.jpeg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\arrows.png",
+      "PackagePath": "staticwebassets\\images\\arrows.png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-bg.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\banner-bg2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-bg2.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\banner-bg3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-bg3.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\bismillah-society-phase-2.jpg",
+      "PackagePath": "staticwebassets\\images\\bismillah-society-phase-2.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\feature-img-1.png",
+      "PackagePath": "staticwebassets\\images\\feature-img-1.png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\home.png",
+      "PackagePath": "staticwebassets\\images\\home.png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\img.jpg",
+      "PackagePath": "staticwebassets\\images\\img.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\lake-city-lahore-1.jpeg",
+      "PackagePath": "staticwebassets\\images\\lake-city-lahore-1.jpeg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\lake-city-lahore.svg",
+      "PackagePath": "staticwebassets\\images\\lake-city-lahore.svg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\links-arrow.png",
+      "PackagePath": "staticwebassets\\images\\links-arrow.png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\message.png",
+      "PackagePath": "staticwebassets\\images\\message.png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\our-story.jpg",
+      "PackagePath": "staticwebassets\\images\\our-story.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\photo-1.jpg",
+      "PackagePath": "staticwebassets\\images\\photo-1.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\photo-2.jpg",
+      "PackagePath": "staticwebassets\\images\\photo-2.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\photo-3.jpg",
+      "PackagePath": "staticwebassets\\images\\photo-3.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\photo-4.jpg",
+      "PackagePath": "staticwebassets\\images\\photo-4.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\smart-city-lahore.jpg",
+      "PackagePath": "staticwebassets\\images\\smart-city-lahore.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\soul-city-lahore.jpeg",
+      "PackagePath": "staticwebassets\\images\\soul-city-lahore.jpeg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\work\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\work\\1.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\work\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\work\\2.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\work\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\work\\3.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\work\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\work\\4.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\work\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\work\\5.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\work\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\work\\6.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\work\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\work\\7.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\images\\work\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\work\\8.jpg"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\fancybox\\Descr.WD3",
+      "PackagePath": "staticwebassets\\js\\fancybox\\Descr.WD3"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\fancybox\\blank.gif",
+      "PackagePath": "staticwebassets\\js\\fancybox\\blank.gif"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\fancybox\\fancybox_loading.gif",
+      "PackagePath": "staticwebassets\\js\\fancybox\\fancybox_loading.gif"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\fancybox\\fancybox_loading_402x.gif",
+      "PackagePath": "staticwebassets\\js\\fancybox\\fancybox_loading_402x.gif"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\fancybox\\fancybox_overlay.png",
+      "PackagePath": "staticwebassets\\js\\fancybox\\fancybox_overlay.png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\fancybox\\fancybox_sprite.png",
+      "PackagePath": "staticwebassets\\js\\fancybox\\fancybox_sprite.png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\fancybox\\fancybox_sprite_402x.png",
+      "PackagePath": "staticwebassets\\js\\fancybox\\fancybox_sprite_402x.png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\fancybox\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\js\\fancybox\\jquery.fancybox.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\fancybox\\jquery.fancybox.pack.js",
+      "PackagePath": "staticwebassets\\js\\fancybox\\jquery.fancybox.pack.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\jquery-1.8.2.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.8.2.min.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\jquery.fittext.js",
+      "PackagePath": "staticwebassets\\js\\jquery.fittext.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\jquery.isotope.js",
+      "PackagePath": "staticwebassets\\js\\jquery.isotope.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\jquery.isotope.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.isotope.min.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nav.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\modernizr-latest.js",
+      "PackagePath": "staticwebassets\\js\\modernizr-latest.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\owl-carousel\\AjaxLoader.gif",
+      "PackagePath": "staticwebassets\\js\\owl-carousel\\AjaxLoader.gif"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\owl-carousel\\grabbing.png",
+      "PackagePath": "staticwebassets\\js\\owl-carousel\\grabbing.png"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\owl-carousel\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\js\\owl-carousel\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\owl-carousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\js\\owl-carousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\owl-carousel\\owl.theme.css",
+      "PackagePath": "staticwebassets\\js\\owl-carousel\\owl.theme.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\owl-carousel\\owl.transitions.css",
+      "PackagePath": "staticwebassets\\js\\owl-carousel\\owl.transitions.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\js\\waypoints.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\myCss.css",
+      "PackagePath": "staticwebassets\\myCss.css"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\videos\\3940070-uhd_3840_2160_30fps.mp4",
+      "PackagePath": "staticwebassets\\videos\\3940070-uhd_3840_2160_30fps.mp4"
+    },
+    {
+      "Id": "D:\\webProject\\Titanium_MVC\\wwwroot\\videos\\video.mp4",
+      "PackagePath": "staticwebassets\\videos\\video.mp4"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.Titanium_MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.Titanium_MVC.props",
+      "PackagePath": "build\\Titanium_MVC.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Titanium_MVC.props",
+      "PackagePath": "buildMultiTargeting\\Titanium_MVC.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.Titanium_MVC.props",
+      "PackagePath": "buildTransitive\\Titanium_MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

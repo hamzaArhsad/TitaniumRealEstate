@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Live Search";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="~/js/search.js"></script> <!-- Custom script for search functionality -->
+</head>
+<body>
+    <div class="container">
+        <h1>Live Search Example</h1>
+        <div class="form-group">
+            <input type="text" id="p1" class="form-control" placeholder="Enter Location">
+            <button id="b1">submit</button>
+        </div>
+        <div id="searchResults" class="mt-5"></div> <!-- Container for displaying search results -->
+    </div>
+</body>
+</html>

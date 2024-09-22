@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Titanium_MVC.props" />
+</Project>

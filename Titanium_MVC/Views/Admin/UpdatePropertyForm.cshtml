@@ -1,0 +1,26 @@
+﻿@* @model Titanium_MVC.Models.Property;
+@{
+    Layout = "~/Views/Shared/_Layout1Identity.cshtml";
+}
+<div class="row">
+    <div class="col-md-4 m-auto">
+        <form asp-controller="Admin" asp-action="Update" method="post">
+            <h2>Del Property</h2>
+            <hr />
+            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+            <div class="form-floating mb-3">
+                <input type="number" class="form-control" name="PropertyId" autocomplete="Id" aria-required="true" placeholder="Enter Id " />
+                <label>Enter Id To Update </label>
+                <input type="text" class="form-control" name="PropeertyLocation" autocomplete="Id" aria-required="true" placeholder="Enter Id " />
+                <label>Enter New  </label>
+
+                <input type="text" class="form-control" name="PropeertyType" autocomplete="Id" aria-required="true" placeholder="Enter Id " />
+                <label>Enter New Type </label>
+                <input type="text" class="form-control" name="PropeertyArea" autocomplete="Id" aria-required="true" placeholder="Enter Id " />
+                <label>Enter New Type </label>
+                
+            </div>
+            <button id="AddProperty" type="submit" class="w-100 btn btn-lg" style="background-color:darkgray">Delete</button>
+        </form>
+    </div>
+</div> *@

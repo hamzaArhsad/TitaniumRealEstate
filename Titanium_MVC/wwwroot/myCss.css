@@ -1,0 +1,289 @@
+
+.body{
+    background-color: black;
+
+}
+
+.TopImage{
+  	border:3px solid goldenrod;
+        border-bottom: 3px solid goldenrod;
+}
+
+/* carousel styling */
+@media screen and (max-width:767px) {
+  .carousel-item img {
+    height: 50vh;
+  }
+}
+
+@media screen and (min-width:768px) and (max-width:991px) {
+  .carousel-item img {
+    height: 70vh;
+  }
+}
+
+@media screen and (min-width:992px) and (max-width:1199px) {
+  .carousel-item img {
+    height: 80vh;
+  }
+}
+
+@media screen and (min-width:1200px) {
+  .carousel-item img {
+    height: 85vh;
+  }
+}
+
+/* marquee styling */
+.marquee {
+  color:goldenrod;
+  margin-top: 0px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color:lightgoldenrodyellow;
+}
+
+@media screen and (max-width:767px) {
+  .marquee {
+    padding: 2px;
+    font-size: 1rem;
+  }
+}
+
+@media screen and (min-width:768px) and (max-width:991px) {
+  .marquee {
+    font-size: 1.5rem;
+    padding: 4px;
+  }
+}
+
+@media screen and (min-width:992px) {
+  .marquee {
+    font-size: 2.5rem;
+    padding: 4px;
+  }
+}
+/* card css */
+.bg-offers
+    {
+        border-top: 3px solid goldenrod;
+        border-bottom: 3px solid goldenrod;
+        background-color:rgba(255,255,255,0.1);
+        margin-top: 100px;
+        padding-bottom: 10px;
+    }
+    .rounded-link {
+  display: inline-block; /* Ensures the anchor tag behaves like a block element */
+  border-radius: 10px; /* Adjust the value to change the roundness */
+  padding: 10px 10px; /* Add padding for spacing inside the anchor tag */
+  background-color:goldenrod; /* Background color forthe link */
+  color: #ffffff; /* Text color */
+  text-decoration: none; /* Remove underline by default */
+  transition: background-color 0.3s ease; /* Smooth transition for background color */
+}
+
+.rounded-link:hover {
+  background-color:black; /* Change background color on hover */
+}
+.card
+{
+  overflow: hidden;
+  background-color: black;
+  color:white;
+}
+.card img
+{
+  height: 150px;
+  transition: transform 300ms;
+  object-fit: cover;
+}
+.card:hover img{
+  transform: scale(1.4);
+}
+/* serivices  css*/
+.services
+{
+  background-color: black;
+  margin-top:90px;
+  margin-bottom:90px;
+
+}
+.service-item
+{
+overflow: hidden;
+color:goldenrod;
+}
+.service-item img
+{
+height: 120px;
+transition: transform 300ms;
+object-fit: cover;
+background-color: goldenrod;
+}
+.service-item:hover img{
+transform: scale(1.4);
+}
+
+
+footer{
+	background:black;
+    margin-top: 50px;
+    	border-top:3px solid goldenrod;
+}
+footer h4{
+font-size:24px;	
+padding-bottom:12px;
+color: goldenrod;
+}
+footer .col ul {
+margin: 0;
+padding: 0;
+list-style: none;
+color: goldenrod;
+}
+footer .col ul li, footer .col p {
+font-size: 14px;
+color: lightcyan;
+}
+footer .col.col-social-icons i {
+width: 40px;
+height: 40px;
+display: inline-block;
+padding: 10px;
+margin-right: 10px;
+margin-bottom: 10px;
+text-align: center;
+font-size: 18px; 
+color: darkgoldenrod;
+border-radius: 0px; 
+}
+footer .col.col-social-icons i:hover{
+color:lightgoldenrodyellow;
+}
+footer input.form-control{
+	padding: 18px 10px;
+} 
+
+.btn
+{
+    background-color: goldenrod;
+    margin-left: 5px;
+}
+
+
+
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  color:goldenrod;
+  margin-top: 10px;
+  height: 20px;
+}
+
+
+
+.navbar-brand {
+  color: goldenrod;
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.nav-link {
+  color: goldenrod;
+  margin-right: 20px;
+  font-weight: bold;
+}
+
+.nav-link:visited{
+  color:goldenrod;
+}
+
+.navbar-toggler {
+  border-color: gold;
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='gold' stroke-width='2' stroke-linecap='round' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+.search-icon {
+  color: goldenrod;
+  font-size: 20px;
+}
+
+
+.nav-item input{
+  background-color:goldenrod;
+}
+
+
+
+.heading{
+  color:goldenrod;
+  font-family:'Oswald', sans-serif; 
+  font-size: 30px;
+}
+
+#work .heading h2{
+  margin-top: 10px;
+}
+
+.heading p{
+  font-size:20px;
+}
+
+#team .heading h2{
+  margin-top: 10px;
+}
+
+.team-content h4{
+  color:white;
+}
+
+
+#aboutUs .heading{
+   color:goldenrod;
+  font-family:'Oswald', sans-serif; 
+  font-size: 30px;
+}
+
+#contactUs h2{
+  color:goldenrod;
+  font-family:'Oswald', sans-serif; 
+  font-size: 30px;
+}
+    .search-form {
+        display: inline-block; /* Ensure the form is displayed inline */
+    }
+
+    .search-input {
+      margin-top: 18px;
+        width: 250px; /* Adjust the width as needed */
+        border: 1px solid #ccc;
+        border-radius: 20px;
+        padding: 8px 15px;
+        margin-right: 10px;
+        transition: width 0.4s ease-in-out;
+        display: inline-block; /* Ensure the input field is displayed inline */
+    }
+
+    .search-input:focus {
+        width: 300px; /* Adjust the expanded width as needed */
+        outline: none;
+    }
+
+    .search-button {
+        background-color: goldenrod; /* Blue color */
+        border: none;
+        color: white;
+        border-radius: 20px;
+        padding: 5px 10px;
+        cursor: pointer;
+        transition: background-color 0.4s ease-in-out;
+        display: inline-block; /* Ensure the button is displayed inline */
+    }
+
+    .search-button:hover {
+        background-color: gold; /* Darker blue color on hover */
+    }
