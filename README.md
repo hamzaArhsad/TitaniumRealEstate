@@ -1,50 +1,53 @@
-Titanium - Real Estate Website
-Overview:
+# Titanium - Real Estate Website
 
-Titanium is a modern, dynamic real estate website designed using Clean Architecture and MVC with ASP.NET and C# for the backend. The frontend leverages HTML, CSS, and Bootstrap for a responsive and user-friendly design. Key features include real-time property notifications powered by SignalR and an Admin Panel for seamless property listing management.
+**Titanium** is a modern, dynamic real estate website designed with Clean Architecture and MVC using ASP.NET Core and C# for the backend. The frontend is built using HTML, CSS, and Bootstrap, providing a responsive and user-friendly design. Key features include real-time property notifications powered by SignalR and an Admin Panel for seamless property listing management.
 
-Key Features
-Clean Architecture: The project follows the principles of Clean Architecture, dividing concerns into layers to ensure easy maintenance and scalability.
+## Key Features
 
-ASP.NET MVC: Built on the powerful ASP.NET MVC framework for a structured and efficient routing system.
+- **Clean Architecture**: The project follows Clean Architecture principles, ensuring a well-structured and maintainable codebase, with distinct layers for each concern.
+  
+- **ASP.NET MVC**: Utilizes ASP.NET Core MVC for an efficient and scalable routing system.
 
-Responsive Design: The UI is designed to be fully responsive, offering an optimal user experience across desktops, tablets, and mobile devices using CSS, Bootstrap, and HTML.
+- **Responsive Design**: Built with HTML, CSS, and Bootstrap 5 to deliver an optimal experience on desktops, tablets, and mobile devices.
 
-Real-Time Notifications: SignalR powers instant notifications, alerting users in real-time when new properties are listed.
+- **Real-Time Notifications**: Powered by SignalR, users receive real-time updates when new properties are listed on the website.
 
-Admin Panel: A secure admin panel enables authorized users to manage property listings, view customer inquiries, and moderate website content.
+- **Admin Panel**: A secure admin panel allows authorized users to manage property listings, view customer inquiries, and moderate website content.
 
-jQuery Integration: jQuery is used for enhancing the user experience with dynamic components such as interactive forms, filters, and content loading.
+- **jQuery Integration**: jQuery enhances the user experience with dynamic forms, filters, and content loading.
 
-Technology Stack
-Backend:
-ASP.NET Core with MVC
+## Technology Stack
 
-C#
+### Backend:
+- **ASP.NET Core with MVC**
+- **C#**
+- **SignalR** for real-time functionality
 
-SignalR for real-time functionality
+### Frontend:
+- **HTML5 & CSS3**
+- **Bootstrap 5** for a responsive UI
+- **jQuery** for interactive features
 
-Frontend:
-HTML5 & CSS3
+### Database:
+- **SQL Server** or any compatible relational database (setup instructions provided)
 
-Bootstrap 5 for a responsive UI
+### Architecture:
+- **Clean Architecture**: Divides the application into distinct layers like Presentation, Domain, and Data Access, ensuring maintainability and scalability.
 
-jQuery for interactive features
+## Real-Time Notifications
 
-Database:
-SQL Server or any compatible relational database (setup instructions provided)
+The application includes a real-time notification system powered by **SignalR**. When an admin adds a new property, all connected users receive immediate updates to stay informed.
 
-Architecture:
-Clean Architecture: The system follows a layered approach, with distinct layers like Presentation, Domain, and Data Access to ensure maintainability and scalability.
+## Admin Panel
 
-Real-Time Notifications
-The application includes a real-time notification system that uses SignalR. Whenever an admin adds a new property, all connected users receive immediate updates.
+To access the admin panel, log in with the provided admin credentials. The admin panel includes the following features:
 
-Admin Panel
-To access the admin panel, log in with the provided admin credentials. The admin panel offers features such as:
+- **Adding, editing, and deleting properties**
+- **Managing user inquiries and accounts**
+- **Monitoring system status and real-time notifications**
 
-Adding, editing, and deleting properties
+## Setup Instructions
 
-Managing user inquiries and accounts
-
-Monitoring system status and real-time notifications
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/hamzaArshad/titanium-real-estate.git
